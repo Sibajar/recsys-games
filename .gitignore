@@ -1,0 +1,49 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compiled python #
+###################
+*.pyc
+__pycache__/
+
+# Cache files #
+###############
+.cache/
+.ccls-cache/
+
+# Distribution / packaging #
+############################
+*.egg-info/
+dist/
+build/
+target/
+
+# IDE #
+#######
+.vscode/
+.idea/
+
+# Logs #
+########
+*.log
+log/
+
+# Data #
+########
+*.csv
+*.xlsx
+*.json
+*.pickle
+*.h5
+
+# Miscellaneous #
+#################
+*.bak
+*.swp
+.DS_Store
