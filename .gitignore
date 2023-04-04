@@ -34,13 +34,6 @@ target/
 *.log
 log/
 
-# Data #
-########
-*.csv
-*.xlsx
-*.json
-*.pickle
-*.h5
 
 # Miscellaneous #
 #################
